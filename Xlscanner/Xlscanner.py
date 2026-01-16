@@ -14,7 +14,7 @@ Features:
 
 Usage: python xlscanner.py
 Author: xloria
-Version: 1.0.0
+Version: 2.0.0
 License: MIT
 """
 
@@ -767,4 +767,5 @@ if __name__ == "__main__":
         sys.exit(0)
     except Exception as e:
         safe_print(f"\n{Colors.RED}Fatal error: {e}{Colors.RESET}")
+
         sys.exit(1)

@@ -41,7 +41,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/xlscanner.git
+git clone https://github.com/efeg266-gif/xlscanner-port-scanner.git
 
 # Navigate to directory
 cd xlscanner
@@ -239,3 +239,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 *Scan responsibly, stay secure.*
+

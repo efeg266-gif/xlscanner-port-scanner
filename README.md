@@ -225,7 +225,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **xloria**
 
-- GitHub: [@xloria](https://github.com/xloria)
+- GitHub: [@xloria](https://github.com/efeg266-gif)
 
 ## 🌟 Acknowledgments
 
@@ -233,15 +233,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built for the security community
 - Thanks to all contributors
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-- Open an [Issue](https://github.com/yourusername/xlscanner/issues)
-- Check existing [Discussions](https://github.com/yourusername/xlscanner/discussions)
-
 ---
 
 **Made with ❤️ by xloria**
+
 
 *Scan responsibly, stay secure.*
